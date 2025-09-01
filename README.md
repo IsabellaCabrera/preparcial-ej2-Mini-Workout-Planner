@@ -1,3 +1,37 @@
+Funcionalidades:
+
+Crear workouts con nombre, sets, reps y día.
+
+Editar workouts desde un formulario.
+
+Eliminar workouts de la lista.
+
+Hooks y eventos usados
+
+Estados (useState):
+
+workOuts → lista de workouts.
+
+form → formulario de creación.
+
+editWorkOut → id del workout en edición.
+
+editForm → formulario de edición.
+
+Eventos principales:
+
+onChange → actualizar inputs en formularios.
+
+onSubmit → crear o guardar edición de workout.
+
+onClick → botones de Edit y Delete.
+
+useEffect → debug, muestra el formulario en consola al cambiar.
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
