@@ -1,12 +1,3 @@
-ormularios.
-
-onSubmit → crear o guardar edición de workout.
-
-onClick → botones de Edit y Delete.
-
-useEffect → debug, muestra el formulario en consola al cambiar.Vale, te lo resumo tipo **README muy breve y directo** 👇
-
----
 
 # 🏋️ Workout Manager (React)
 
